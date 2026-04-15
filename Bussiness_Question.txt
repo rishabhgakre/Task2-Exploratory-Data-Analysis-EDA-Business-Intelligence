@@ -1,0 +1,7 @@
+1. What are top 5 products by total sales?
+2. What is the monthly sales trend?
+3. Which category generates highest revenue?
+4. Highest Sales by Region
+5. What is average order value?
+6. Which product is sold the most (quantity)?
+7. Which day/month has highest sales?
